@@ -1,1 +1,2 @@
 # QuickSort
+This code is an example of recursive realization of Quick Sort Algorithm on Java (without repeats in initial array of integer's type). Pivot is chosen as a median of the first, the middle and the last elements of initial array. For array with an odd lenght (2m), middle element has the mth position. For example, in array 4,3,2,1 - 4 is the first element, 3 is a middle element and 1 is a last one. Numbers in initial file should be typed in a row for correct reading as shown in an example in attachment. Enjoy!
